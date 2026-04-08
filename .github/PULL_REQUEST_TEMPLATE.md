@@ -30,7 +30,7 @@ Add screenshots here for a UI change
 - [ ] I have added the module to TestSite (for new modules).
 
 ## Release Notes
-General section. Note: remove this section if this is not a release labelled PR.
+General section. Note: remove the whole release notes section if this is not a release labelled PR.
 
 ### `<module1>`
 Module1 specific notes
