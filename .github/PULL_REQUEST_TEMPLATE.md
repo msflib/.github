@@ -32,8 +32,8 @@ Add screenshots here for a UI change
 ## Release Notes
 General section. Note: remove this section if this is not a release labelled PR.
 
-### <module1>
+### `<module1>`
 Module1 specific notes
 
-### <module2>
+### `<module2>`
 Module2 specific notes
