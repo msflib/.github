@@ -24,11 +24,16 @@ Add screenshots here for a UI change
 - [ ] I have checked for linting.
 - [ ] I have followed the project coding standards.
 - [ ] I have manually tested my changes.
-- [ ] I have updated the documentation (the README and, where the repository has one, the docs site).
-- [ ] I have removed or updated any docs notice this change resolves (for example a known-issue note).
+- [ ] I have updated the documentation.
 - [ ] I have added automated test coverage.
 - [ ] I have followed MSFLib module structure.
 - [ ] I have added the module to TestSite (for new modules).
+
+## Documentation
+Note: remove this section if no documentation changed.
+
+- Pages updated: `README.md`, `docs/...`
+- Notices removed or updated (e.g. known-issue notes): #issue
 
 ## Release Notes
 General section. Note: remove the whole release notes section if this is not a release labelled PR.
