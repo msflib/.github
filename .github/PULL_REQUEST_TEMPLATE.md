@@ -29,6 +29,12 @@ Add screenshots here for a UI change
 - [ ] I have followed MSFLib module structure.
 - [ ] I have added the module to TestSite (for new modules).
 
+## Documentation
+Note: remove this section if no documentation changed.
+
+- Pages updated: `README.md`, `docs/...`
+- Notices removed or updated (e.g. known-issue notes): #issue
+
 ## Release Notes
 General section. Note: remove the whole release notes section if this is not a release labelled PR.
 
